@@ -1,4 +1,5 @@
-# String ve Char
+
+# String ve Char kullanımı
 
 deger1="Fare"
 print(deger1)

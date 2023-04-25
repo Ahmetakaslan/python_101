@@ -1,4 +1,6 @@
-# Dictionary
+
+# Dictionary kullanımı ve özellikleri
+
 myDictionary = {
     "adı": "Ahmet",
     "yaş": 20

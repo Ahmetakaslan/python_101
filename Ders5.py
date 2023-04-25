@@ -1,4 +1,6 @@
-# Boolean
+
+
+#   Boolean Veri tipinin kullanımı
 a=True
 b=False
 c=type(a)# tipini verir

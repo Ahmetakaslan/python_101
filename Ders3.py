@@ -1,6 +1,5 @@
 
 '''
-
 veri tipleri 
 
 int       =Integer

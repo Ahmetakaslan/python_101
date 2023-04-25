@@ -1,3 +1,5 @@
+# Tuple Kullanımı () Özelliikleri metodları
+
 # tuple Değiştirilemez liste ve () kullanılır
 mytuple=(1,2,5,"ahmet",1) # sonradan eklem çıkarma yapılamaz  => ** immutable ** 
 # mesela 

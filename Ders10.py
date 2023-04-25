@@ -6,5 +6,6 @@ for meyveler in siparisler:
     adet+=1
     print(f"{adet}",meyveler)
     print()
+    
 
     

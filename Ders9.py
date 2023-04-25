@@ -1,4 +1,6 @@
-# if else   elif
+
+# if , else , elif kullanımı 
+
 havaDurumu="Yağışlı"
 if havaDurumu=="Yağışlı": # bu doğruysa yap 
     print("Şemsiyeni al")

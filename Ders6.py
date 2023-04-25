@@ -1,4 +1,5 @@
-#Liste ve Set
+
+# Liste[] ve Set{} kullanımı farkı
 
 liste = [5,6,8,"ahmet"]
 print(liste)

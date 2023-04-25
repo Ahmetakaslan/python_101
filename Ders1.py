@@ -1,3 +1,4 @@
+# Priint() metodu kullanımı \n \t 
 print("1) Ahmet")
 print("2) Ahmet Akaslan")
 print("3) ters slaş n bir alt satıra indiri ve \t ise bir tab")

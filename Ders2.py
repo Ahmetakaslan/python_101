@@ -1,3 +1,4 @@
+# Ders1 Devamı 
 sayi=10
 sayi2=11
 print("deger",sayi+sayi2)
