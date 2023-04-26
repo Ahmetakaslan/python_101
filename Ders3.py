@@ -16,7 +16,8 @@ dict      ={'isim'="Ahmet"}
 deger1=5
 #float
 deger2=155.5
-#string
+#string 
+
 deger3="Ahmet"
 #boolean
 deger4=True
